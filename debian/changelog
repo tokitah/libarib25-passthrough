@@ -1,0 +1,5 @@
+libarib25-passthrough (1.0-1) trusty; urgency=low
+
+  * Initial release (Closes: #999999999)
+
+ -- TOKITA Hiroshi <tokita.hiroshi@gmail.com>  Sat, 24 May 2014 22:28:08 +0900
