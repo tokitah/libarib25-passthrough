@@ -1,3 +1,9 @@
+libarib25-passthrough (1.0-1.1) trusty; urgency=medium
+
+  * Provides libarib25-dev.
+
+ -- TOKITA Hiroshi <tokita.hiroshi@gmail.com>  Sun, 25 May 2014 12:45:06 +0900
+
 libarib25-passthrough (1.0-1) trusty; urgency=low
 
   * Initial release (Closes: #999999999)
