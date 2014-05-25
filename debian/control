@@ -3,8 +3,8 @@ Priority: optional
 Maintainer: TOKITA Hiroshi <tokita.hiroshi@gmail.com>
 Build-Depends: debhelper (>= 9.0.0), autotools-dev
 Standards-Version: 3.9.5
-Section: libs
-Homepage: https://github.com/tokitah/libarib25-passthrough.git
+Section: video
+Homepage: https://github.com/tokitah/libarib25-passthrough
 #Vcs-Git: git://git.debian.org/collab-maint/libarib25-passthrough.git
 #Vcs-Browser: http://git.debian.org/?p=collab-maint/libarib25-passthrough.git;a=summary
 
@@ -19,7 +19,7 @@ Description: Dev files for
  hogehoge
 
 Package: libarib25-passthrough1
-Section: libs
+Section: video
 Architecture: any
 Multi-Arch: same
 Pre-Depends: ${misc:Pre-Depends}
