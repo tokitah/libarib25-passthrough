@@ -1,3 +1,9 @@
+libarib25-passthrough (1.1-1) trusty; urgency=medium
+
+  * Increment version number.
+
+ -- TOKITA Hiroshi <tokita.hiroshi@gmail.com>  Sun, 25 May 2014 13:47:40 +0900
+
 libarib25-passthrough (1.0-1.1) trusty; urgency=medium
 
   * Provides libarib25-dev.
